@@ -8,9 +8,8 @@ hardware and the software both have to work: I'd rather be holding the part than
 - 🦾 **[arctos_can_integration](https://github.com/mdion2-maker/arctos_can_integration)**:
   bringing up a 3D-printed 6-DOF Arctos arm over CAN bus with ROS 2 Humble. It includes
   diagnostic scripts, a Tkinter control panel, and a living SOP that documents every finding,
-  dead end, and fix (including tracking a stick-slip problem to gear-mesh clearance).
-- 🏭 Automating a jewelry manufacturing line: loading pins for laser engraving, and
-  researching force sensing and custom end-effectors for polishing.
+  dead end, and fix. Automating a jewelry manufacturing line: loading pins for laser engraving,
+  and researching force sensing and custom end-effectors for polishing.
 - 🍽️ **[Mom's Dinner Planner](https://github.com/mdion2-maker/Mom-s-Dinner-Planner)**:
   a weeknight meal planner built for my mom. It narrows tens of thousands of recipes to
   quick dinners that are good for bone health, and it works offline on a computer or an iPhone.
